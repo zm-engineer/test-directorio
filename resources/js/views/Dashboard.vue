@@ -1,0 +1,13 @@
+<template>
+  <div class="">
+     <h1>Bienvenido! :)</h1>
+  </div>
+
+</template>
+
+<script>
+export default {
+
+
+};
+</script>
